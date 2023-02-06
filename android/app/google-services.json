@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "583463946398",
+    "project_id": "iotproject-7f7d4",
+    "storage_bucket": "iotproject-7f7d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583463946398:android:4b6ca4ce50e1599325138f",
+        "android_client_info": {
+          "package_name": "com.example.alarmapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583463946398-fts0sicr8d5lt6oq4r6bmj8c5b3olvc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6HoC6uSJwnJjMsT-Uf-ktOyTkthSfDIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583463946398-fts0sicr8d5lt6oq4r6bmj8c5b3olvc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
